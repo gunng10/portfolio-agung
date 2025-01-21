@@ -1381,3 +1381,7 @@ body {
 .text-\[0\2c 75rem\] {
   font-size: 0,75rem /* 1200px */;
 }
+
+.p-10 {
+  padding: 2.5rem /* 40px */;
+}
